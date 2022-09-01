@@ -1,0 +1,1 @@
+This repository contains shell permission commands. That switch user, print surname, prints all groups the current user is part of, change the owner, creat empty file, add excute permission to the owner, multiple permission and others.
