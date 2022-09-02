@@ -1,0 +1,1 @@
+These are basics shell commands. Including how to know our working directory path, to se whats in the current directory, to change working directory to home, to see conetents of current directories, to show hidden files,to display the current and so on.

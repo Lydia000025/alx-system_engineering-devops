@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-pwd
+This are basic shell commands!
